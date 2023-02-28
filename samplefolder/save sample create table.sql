@@ -1,0 +1,4 @@
+CREATE TABLE creditCard (
+	ccid SERIAL PRIMARY KEY,
+	ccNumber VARCHAR (50) NOT NULL
+	);
