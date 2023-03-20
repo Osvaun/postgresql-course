@@ -1,0 +1,1 @@
+SELECT pfirstname, pfavorites -> 'Desserts' ? 'ice cream' FROM people LIMIT 10;

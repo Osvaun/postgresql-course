@@ -1,0 +1,1 @@
+SELECT pfirstname, pfavorites -> 'Desserts' FROM people LIMIT 10;
